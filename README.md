@@ -13,7 +13,7 @@ https://www.linkedin.com/feed/update/urn:li:ugcPost:7329978801323397120/
 
 
 ## Setup
-1. Clone the repository: `git clone [your-repo-link]`
+1. Clone the repository: `git clone https://github.com/zamanayaz/langchain-search-engine`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Get a Groq API key from (https://groq.com).
 4. Run the app: `streamlit run app.py`
